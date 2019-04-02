@@ -1,8 +1,7 @@
 
 
 # Adding another permission? A guide
-
-Nick Doty
+Author: Nick Doty
 
 This document was inspired by discussions at the [W3C Workshop on Permissions and User Consent](https://www.w3.org/Privacy/permissions-ws-2018/) held in September 2018
 
@@ -65,3 +64,7 @@ _Web site authors using permissioned features should keep these principles in mi
     * _who_ is asking, _what_ are they asking for, _why_ do they need it?
 
 * Users can and will change their minds. Don't assume that a permission granted once guarantees permanent access; nor that a permission refused means a user will never choose to accept some functionality.
+
+
+
+Image credit: the flowchart above is from Section 8.1 of [Adrienne Porter Felt's Ph.D. thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-185.pdf)
